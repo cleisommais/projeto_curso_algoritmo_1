@@ -1,15 +1,4 @@
-//
 
-/*
-fsfsfds
-fdsfsfs
-fsfdsfs
-
-
-
-
-fsfsfdsdfs
-*/
 
 var nome, idade;
 nome = prompt("Digite o seu nome:")
